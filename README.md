@@ -4,7 +4,7 @@
 
 ---
 # 使用方式
-直接下载`Calculator.h`和`main.cpp`文件或拷贝代码，再使用你的IDE运行即可。
+直接下载`Calculator.h`和`main.cpp`文件或拷贝代码，再使用你的IDE运行即可。或者，点击[我](https://github.com/Shu-Jvan/SimpleCalculator/releases/download/v1.0/XLv.Calculator.exe)直接下载可执行文件（Windows可用）
 
 ---
 # 注意
